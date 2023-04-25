@@ -1,0 +1,3 @@
+# Jose Pablo Mora Villalobos
+
+Welcome to my personal projects repository! As a student, I have had the opportunity to explore and develop projects in various fields such as machine learning, artificial intelligence, computer science, and data analysis. In this repository, you will find a collection of projects that I have completed during my academic journey to apply the concepts and techniques I have learned in a practical context. Each project reflects my curiosity and passion for exploring new technologies and solving real-world problems. I hope you find these projects informative.
